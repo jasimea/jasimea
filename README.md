@@ -1,14 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Jasim+%F0%9F%91%8B;Enterprise+Platform+Architect;AI+Systems+Specialist;16%2B+Years+Building+at+Scale" alt="Typing SVG" />
+<h1 align="left">
+ Hey, I'm Jasim 👋
 </h1>
 
-<p align="center">
+<p align="left">
   Building scalable enterprise platforms, cloud-native systems, and production AI applications.<br/>
   I specialize in digital transformation, distributed architecture, and integrating LLMs into real-world business workflows.
-</p>
-
-<p align="center">
-  📍 UAE / India
 </p>
 
 ---
