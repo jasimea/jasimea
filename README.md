@@ -85,6 +85,6 @@
 ### 🤗 Let's Connect!
 
 - 💬 Ask me about enterprise architecture, AI systems, or building products at scale
-- 📝 Read my articles:  [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@jasim)
+- 📝 Read my articles: [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/jasimea)  [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@jasim)
 - 🐦 Follow me on Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mjasimea)
 - 💼 Connect on LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasimea/)
